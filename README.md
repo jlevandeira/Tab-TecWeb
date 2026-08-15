@@ -1,4 +1,4 @@
-# Tâb — Jogo de Tabuleiro (Tecnologias Web)
+# Tâb — Jogo de Tabuleiro
 
 Este projeto consiste numa implementação web completa do tradicional jogo de tabuleiro do Médio Oriente **Tâb**, desenvolvido para a unidade curricular de **Tecnologias Web** do **DCC/FCUP** (Departamento de Ciência de Computadores da Faculdade de Ciências da Universidade do Porto).
 

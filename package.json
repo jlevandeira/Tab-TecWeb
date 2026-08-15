@@ -1,0 +1,11 @@
+{
+  "name": "tw-server",
+  "version": "1.0.0",
+  "description": "Node.js server for TW game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

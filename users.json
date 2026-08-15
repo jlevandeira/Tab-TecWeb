@@ -1,0 +1,32 @@
+[
+  {
+    "nick": "testuser",
+    "password": "179ad45c6ce2cb97cf1029e212046e81"
+  },
+  {
+    "nick": "testfix",
+    "password": "1a1dc91c907325c69271ddf0c944bc72"
+  },
+  {
+    "nick": "ranktest",
+    "password": "1a1dc91c907325c69271ddf0c944bc72"
+  },
+  {
+    "nick": "levan",
+    "password": "81dc9bdb52d04dc20036dbd8313ed055",
+    "victories": 1,
+    "games": 4
+  },
+  {
+    "nick": "p2",
+    "password": "1a1dc91c907325c69271ddf0c944bc72",
+    "victories": 0,
+    "games": 0
+  },
+  {
+    "nick": "levandeira",
+    "password": "81dc9bdb52d04dc20036dbd8313ed055",
+    "victories": 3,
+    "games": 4
+  }
+]

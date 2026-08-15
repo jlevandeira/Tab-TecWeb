@@ -1,0 +1,520 @@
+[
+  {
+    "id": "dc9f1f0f20bdc0c0e75f48f4590b6cd7",
+    "group": 39,
+    "size": 9,
+    "players": {
+      "levandeira": "red",
+      "levan": "blue"
+    },
+    "initial": "levandeira",
+    "turn": "levandeira",
+    "board": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "id": "p1_2",
+        "player": "red",
+        "color": "red",
+        "row": 1,
+        "col": 3,
+        "state": "in-play",
+        "hasMoved": true,
+        "hasEnteredOpponentLine": false
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "id": "p1_5",
+        "player": "red",
+        "color": "red",
+        "row": 2,
+        "col": 7,
+        "state": "veteran",
+        "hasMoved": true,
+        "hasEnteredOpponentLine": true
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "status": "finished",
+    "dice": {
+      "value": 1,
+      "stickValues": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "keepPlaying": true
+    },
+    "step": "to",
+    "selected": [
+      12
+    ],
+    "selectedIdx": 11,
+    "mustPass": false,
+    "winner": "levandeira"
+  },
+  {
+    "id": "8bdd35bfa05659f32be3ed812856a4d9",
+    "group": 39,
+    "size": 9,
+    "players": {
+      "levandeira": "red",
+      "levan": "blue"
+    },
+    "initial": "levandeira",
+    "turn": "levandeira",
+    "board": [
+      {
+        "id": "p1_8",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 8,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_7",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 7,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_6",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 6,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_5",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 5,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_4",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 4,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_3",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 3,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_2",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 2,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_1",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 1,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_0",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 0,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "id": "p2_0",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 0,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_1",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 1,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_2",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 2,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_3",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 3,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_4",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 4,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_5",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 5,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_6",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 6,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_7",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 7,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_8",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 8,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      }
+    ],
+    "status": "playing",
+    "dice": null,
+    "step": "from",
+    "selected": [],
+    "selectedIdx": null
+  },
+  {
+    "id": "d821d6e8c739cdf861cd3d9bac9a3010",
+    "group": 39,
+    "size": 9,
+    "players": {
+      "levan": "red",
+      "levandeira": "blue"
+    },
+    "initial": "levan",
+    "turn": "levan",
+    "board": [
+      {
+        "id": "p1_8",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 8,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_7",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 7,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_6",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 6,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_5",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 5,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_4",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 4,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_3",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 3,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_2",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 2,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p1_1",
+        "player": "red",
+        "color": "red",
+        "row": 0,
+        "col": 1,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      null,
+      null,
+      null,
+      {
+        "id": "p1_0",
+        "player": "red",
+        "color": "red",
+        "row": 1,
+        "col": 2,
+        "state": "in-play",
+        "hasMoved": true,
+        "hasEnteredOpponentLine": false
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "id": "p2_0",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 0,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_1",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 1,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_2",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 2,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_3",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 3,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_4",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 4,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_5",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 5,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_6",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 6,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_7",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 7,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      },
+      {
+        "id": "p2_8",
+        "player": "blue",
+        "color": "blue",
+        "row": 3,
+        "col": 8,
+        "state": "not-moved",
+        "hasMoved": false,
+        "hasEnteredOpponentLine": false
+      }
+    ],
+    "status": "playing",
+    "dice": null,
+    "step": null,
+    "selected": [],
+    "selectedIdx": null,
+    "mustPass": false
+  }
+]

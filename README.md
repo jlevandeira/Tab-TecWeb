@@ -14,7 +14,7 @@ O projeto suporta tanto o jogo **Local (contra o Computador com Inteligência Ar
 - **Tamanho do Tabuleiro Customizável:** Suporte para tabuleiros de 7, 9, 11, 13 ou 15 colunas (9 colunas por defeito).
 
 ### Inteligência Artificial (Minimax)
-A IA implementa o algoritmo de decisão **Minimax** com cortes Alfa-Beta (otimizado no lado do cliente em [minimax.js](./minimax.js)):
+A IA implementa o algoritmo de decisão **Minimax** com cortes Alfa-Beta (otimizado no lado do cliente em [minimax.js](./minimax.js):
 - **Fácil:** Profundidade reduzida com jogadas mais aleatórias (+10 XP na vitória, -5 XP na derrota).
 - **Médio:** Avaliação heurística intermédia (+20 XP na vitória, -10 XP na derrota).
 - **Difícil:** Análise aprofundada com antecipação de capturas e controlo das linhas (+30 XP na vitória, -15 XP na derrota).

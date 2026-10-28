@@ -14,7 +14,7 @@ O projeto suporta tanto o jogo **Local (contra o Computador com Inteligência Ar
 - **Tamanho do Tabuleiro Customizável:** Suporte para tabuleiros de 7, 9, 11, 13 ou 15 colunas (9 colunas por defeito).
 
 ### Inteligência Artificial (Minimax)
-A IA implementa o algoritmo de decisão **Minimax** com cortes Alfa-Beta (otimizado no lado do cliente em [minimax.js](file:///c:/Users/levan/Desktop/trabalho1/trabalho/FINALSemCanvas/FUNCIONA/trabalho/minimax.js)):
+A IA implementa o algoritmo de decisão **Minimax** com cortes Alfa-Beta (otimizado no lado do cliente em [minimax.js](./minimax.js)):
 - **Fácil:** Profundidade reduzida com jogadas mais aleatórias (+10 XP na vitória, -5 XP na derrota).
 - **Médio:** Avaliação heurística intermédia (+20 XP na vitória, -10 XP na derrota).
 - **Difícil:** Análise aprofundada com antecipação de capturas e controlo das linhas (+30 XP na vitória, -15 XP na derrota).
@@ -103,8 +103,8 @@ Certifique-se de que tem o [Node.js](https://nodejs.org/) instalado no seu compu
 
 ### Executar o Cliente
 
-1. Para jogar, basta abrir o ficheiro [index.html](file:///c:/Users/levan/Desktop/trabalho1/trabalho/FINALSemCanvas/FUNCIONA/trabalho/index.html) diretamente no seu navegador de internet de preferência ou usar um servidor local simples (ex: Live Server do VS Code).
-2. Se quiser que o cliente se ligue ao servidor local em vez do servidor de produção do DCC-FCUP, modifique a constante `SERVER_BASE` no ficheiro [network.js](file:///c:/Users/levan/Desktop/trabalho1/trabalho/FINALSemCanvas/FUNCIONA/trabalho/network.js):
+1. Para jogar, basta abrir o ficheiro [index.html](./index.html) diretamente no seu navegador de internet de preferência ou usar um servidor local simples (ex: Live Server do VS Code).
+2. Se quiser que o cliente se ligue ao servidor local em vez do servidor de produção do DCC-FCUP, modifique a constante `SERVER_BASE` no ficheiro [network.js](./network.js):
    ```javascript
    const SERVER_BASE = "http://localhost:8139";
    ```
